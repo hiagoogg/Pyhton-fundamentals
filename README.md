@@ -1,32 +1,26 @@
-## 📚 Lista 1 - Fundamentos em Python
+# 📚 Python Fundamentals
 
-### 📌 Conteúdos
-- Variáveis;
-- Tipos Embutidos;
-- Manipulação de dados;
-- Lógica de programação;
+Repositório com exercícios e práticas focadas em fortalecer minha base em programação utilizando Python.
 
-### 🧠 Aprendizados
-- Uso de slicing em strings;
-- Conversão de bases numéricas;
-- Uso de ord() e chr();
-- Estruturas básicas de lógica;
+## 📂 Conteúdo
 
-### 🚧 Desafios enfrentados
-- Implementar cifra de César;
-- Manipular string sem usar split();
-- criptogravar dados;
+### 🟢 Lista 1 - Variáveis e Tipos
+- Manipulação de strings
+- Conversão de bases
+- Slicing
+- Cifra de César
 
-### 💡 Observações
-Esses exercícios foram importantes para treinar lógica de programação e iniciar meus estudos na linguagem Python;
+📁 pasta: /LISTA 1 - Variaveis e Tipos Embutidos
 
-## Exercícios
+## 🧠 O que estou desenvolvendo
 
-1. Desenhar formas com asteriscos
-2. Conversão de bases numéricas
-3. Expressões matemáticas
-4. Manipulação de strings
-5. Slicing de datas
-6. Cifra de César
-7. Contagem de vogais
-8. Criptografia de números
+- Lógica de programação
+- Resolução de problemas
+- Escrita de código limpo
+- Consistência nos estudos
+
+---
+
+## 🚀 Objetivo
+
+Desenvolver conhecimento na linguagem de programação Python.
